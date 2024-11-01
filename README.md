@@ -8,4 +8,4 @@ Here are the game actions and corresponding gestures:
 - shift shape right – point right
 - drop shape – peace sign
 
-To run the program, type python/python3 tetris.py and open Tetris.com on a browser.
+To run the program, type python/python3 tetris.py and open [Tetris.com](https://tetris.com/play-tetris) on a browser.
